@@ -65,15 +65,15 @@ distribution_channel : Booking distribution channel (TA - Travel Agents and TO -
 - From this chart, it can be seen that there was more than double bookings were made in 2016, compared to the previous year, but decrease in the number of visitors coming from 2016 to 2017 for each hotel. There was a decrease of around 42.5% in Resort Hotels compared to the previous year, while in City Hotels there was a decrease of around 42.9% from the previous year. This decline figure almost reached half of the previous year's visits. Therefore, hotels need to make efforts to increase the number of visitors in the following year, for example by providing attractive discounts and promotions.
   
 - ![WhatsApp Image 2023-10-28 at 10 25 10_dde16195](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/e24c1cfd-a2c1-4270-9755-e9bd7adf6ff6)
-- Based on the data there are 2 types of hotels, hotel bookings are in the months from January to December and it can be seen that the highest hotel bookings are in August for both types of hotels and the lowest bookings are in January for both types of hotels.
+-  From this chart, there was a trend of decreasing number of customers at the beginning and end of the year. However, there was a spike in the number of customers between June and August of 33% at City Hotels and more than 77% at Resort Hotels, but fell in the following months. Therefore, efforts are needed to increase the number of visits, such as promotions by offering certain attractive facilities at the beginning and end of the year, as well as providing more rooms between June and August with good facilities and services to maintain customer loyalty so that there is no decline. which was quite extreme in the following month.
 
 - ![WhatsApp Image 2023-10-28 at 10 18 54_3db1665d](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/9df5e745-841d-44f4-bae8-c316cb6b50da)
 - Based on data, it can be seen that there are 2 types of hotels, namely city hotels and resort hotels and from all visitors it can be seen that more people choose to stay at city hotels at 61% of all visitors and for resort hotels themselves there are 39% of all visitors who choose to stay at there.
   
-- ![WhatsApp Image 2023-10-28 at 10 19 53_b04e5368](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/bfff2c70-907f-4801-a42e-785d7e9d83d8)
+- ![WhatsApp Image 2023-10-28 at 13 12 04_c9026920](https://github.com/renatasa13/Data-Analytics-Part-3/assets/93513745/c75c3fc1-2469-483d-8c53-1b0e7df19f06)
 - Based on data, 77% of visitors ordered BB (Bed & Breakfast) meals, while 10% of visitors ordered SC (Self-Catering) or HB (Half board (breakfast and one other meal – usually dinner)), the rest ordered full board, and there were visitors who did not order food.
   
-- ![WhatsApp Image 2023-10-28 at 10 18 54_f039c4e2](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/2517ba09-71ad-4b6b-9514-08e65142e92d)
+- ![image](https://github.com/renatasa13/Data-Analytics-Part-3/assets/93513745/47e81b13-2383-402d-848f-842b68fe5244)
 - Based on this data, it shows the number of hotel orders every month. Based on this, August is the month with the most visitors (12.8%) and January is the month with the fewest visitors (5.3%), January is only half as many as August. So hotels must pay attention to what must be done so that visitors can increase.
 
 # 2. Responsible analytics practices
